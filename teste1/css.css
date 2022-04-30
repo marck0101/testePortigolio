@@ -1,0 +1,23 @@
+.cabecalho {
+    padding: 0%;
+    background-color: pink;
+    /* color: blue; */
+    height: 100px;
+}
+
+.texto {
+    margin: 10 px;
+    margin-top: 10 px;
+    padding: 10 px;
+    color: darkblue;
+    text-align: left;
+
+}
+
+
+.grid-layuout {
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: column wrap;
+}
