@@ -52,9 +52,9 @@ function hobbie() {
     <div class="flex-container">
     <div class="cabecalho">
         <div class="texto2">
-            <h1>Titulo</h1>
+            <h1>Bobbie</h1>
             <p>What is Lorem Ipsum?
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                Lorem  Lorem Ipsum is simply Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
                 industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
                 and
                 scrambled it to make a type specimen book. It has survived not only five centuries, but also the
@@ -117,9 +117,9 @@ function features() {
     <div class="flex-container">
     <div class="cabecalho">
         <div class="texto2">
-            <h1>Titulo</h1>
+            <h1>Features</h1>
             <p>What is Lorem Ipsum?
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                Loasdasdrem Ipsum isasd simply dumasdasdmy text of the printing and typesetting industry. Lorem Ipsum has been the
                 industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
                 and
                 scrambled it to make a type specimen book. It has survived not only five centuries, but also the
