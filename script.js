@@ -197,6 +197,29 @@ function contact() {
             </div>
         </div>
     </div>
+    <div class="cabecalho">
+    <div class="">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111774.png" width="50" height="50">
+    </div>
+</div>
+</div><br>
+
+<div class="">
+<div class="cabecalho">
+    <div class="">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="50" height="50">
+    </div>
+</div>
+</div><br>
+
+
+<div class="">
+<div class="cabecalho">
+    <div class="">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384030.png" width="50" height="50">
+    </div>
+</div>
+</div>
   
         </div>`;
 
